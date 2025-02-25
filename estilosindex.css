@@ -4,6 +4,12 @@ body{
     padding: 0;
     background-color: #00100f;
 }
+a{
+    border: 0;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
 .logJC{
     display: flex;
     justify-content: center;
